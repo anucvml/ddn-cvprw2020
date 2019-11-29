@@ -43,6 +43,8 @@ Instructions coming soon...
 ![dcampbell](assets/dcampbell.jpg) <!-- .element height="100px" width="100px" -->
 ![rhartley](assets/rhartley.jpg) <!-- .element height="100px" width="100px" -->
 
+<img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" />
+
 
 <div>Some content here</div>
 <div>Some content here</div>
