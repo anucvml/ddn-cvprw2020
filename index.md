@@ -38,21 +38,19 @@ Instructions coming soon...
 
 ## Organizers
 
-![sgould](assets/sgould.jpg) <!-- .element height="100px" width="100px" style="border-radius: 50%;" -->
-![acherian](assets/acherian.jpg) <!-- .element height="100px" width="100px" -->
-![dcampbell](assets/dcampbell.jpg) <!-- .element height="100px" width="100px" -->
-![rhartley](assets/rhartley.jpg) <!-- .element height="100px" width="100px" -->
-
-<img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" />
-
-
-<div>Some content here</div>
-<div>Some content here</div>
-
-![](https://...Ocean.png)
-
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<div>
+<table>
+  <tr>
+    <td><img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
+    <td><img src="assets/acherian.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
+    <td><img src="assets/dcampbell.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
+    <td><img src="assets/rhartley.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
+  </tr>
+  <tr>
+    <td>Stephen Gould</td>
+    <td>Anoop Cherian</td>
+    <td>Dylan Campbell</td>
+    <td>Richard Hartley</td>
+  </tr>
+</table>
+</div>
