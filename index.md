@@ -1,9 +1,9 @@
 ## Deep Declarative Networks
 
 
-[Program](#program)
-[Invited Speakers](#invited-speakers)
-[Submission](#submission)
+[Program](#program) |
+[Invited Speakers](#invited-speakers) |
+[Submission](#submission) |
 [Organizers](#organizers)
 
 Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them deep declarative networks, borrowing nomenclature from the programming community (Gould et al., 2019).
@@ -26,11 +26,23 @@ Smooth Games Optimization and Machine Learning Workshop, NeurIPS 2018, included 
 
 ## Program
 
+TBA
+
 ## Invited Speakers
+
+TBA
 
 ## Submission
 
+Instructions coming soon...
+
 ## Organizers
+
+![sgould](assets/sgould.jpg) <!-- .element height="100px" width="100px" style="border-radius: 50%;" -->
+![acherian](assets/acherian.jpg) <!-- .element height="100px" width="100px" -->
+![dcampbell](assets/dcampbell.jpg) <!-- .element height="100px" width="100px" -->
+![rhartley](assets/rhartley.jpg) <!-- .element height="100px" width="100px" -->
+
 
 <div>Some content here</div>
 <div>Some content here</div>
