@@ -47,14 +47,18 @@ Instructions coming soon...
     <td><img src="assets/rhartley.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
   </tr>
   <tr>
-    <td>Stephen Gould<br>ANU</td>
-    <td>Anoop Cherian<br>MERL</td>
-    <td>Dylan Campbell<br>ANU</td>
-    <td>Richard Hartley<br>ANU</td>
+    <td><b>Stephen Gould</b><br>ANU</td>
+    <td><b>Anoop Cherian</b><br>MERL</td>
+    <td><b>Dylan Campbell</b><br>ANU</td>
+    <td><b>Richard Hartley</b><br>ANU</td>
   </tr>
 </table>
 </div>
 
 ---
-Contact: cvpr2020@deepdeclarativenetworks.com
+
+<center>
+Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
+<br>
 &copy; 2019
+</center>
