@@ -6,23 +6,18 @@
 [Submission](#submission) |
 [Organizers](#organizers)
 
-Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them deep declarative networks, borrowing nomenclature from the programming community (Gould et al., 2019).
+Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them **deep declarative networks**, borrowing nomenclature from the programming community ([Gould et al., 2019](https://arxiv.org/abs/1607.05447)).
 
-Processing nodes in deep declarative networks involve solving an optimization problem in the forward pass. End-to-end learning back-propagates gradients through the node, which requires the optimization problem to be differentiable. A few recent works have studied various optimization problem classes and shown how backpropagation is possible even without the knowledge of the algorithm used for solving the problem in the first place (Agrawal, 2019; Amos, 2019; Pfau et al. 2019; Amos and Kolter, 2017; Gould et al., 2016). The ideas have been applied to various problems including video classification (Fernando and Gould, 2017; Cherian et al., 2018, Wang and Cherian, 2019), attribute ranking (Santa Cruz et al., 2018), and meta-learning (Lee et al., 2018).
+Processing nodes in deep declarative networks involve solving an optimization problem in the forward pass. End-to-end learning back-propagates gradients through the node, which requires the optimization problem to be differentiable. A few recent works have studied various optimization problem classes and shown how backpropagation is possible even without the knowledge of the algorithm used for solving the problem in the first place ([Agrawal et al., 2019](https://web.stanford.edu/~boyd/papers/pdf/diff_cone_prog.pdf); [Amos, 2019](http://reports-archive.adm.cs.cmu.edu/anon/2019/CMU-CS-19-109.pdf); [Pfau et al. 2019](https://arxiv.org/abs/1806.02215); [Amos and Kotler, 2017](https://github.com/locuslab/optnet); [Gould et al., 2016](https://arxiv.org/abs/1607.05447)). The ideas have been applied to various problems including video classification ([Fernando and Gould, 2016](http://proceedings.mlr.press/v48/fernando16.pdf); [Cherian et al., 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cherian_Generalized_Rank_Pooling_CVPR_2017_paper.pdf), [Wang and Cherian, 2019](https://ieeexplore.ieee.org/document/8812898)), attribute ranking ([Santa Cruz et al., 2018](https://ieeexplore.ieee.org/document/8481554)), and meta-learning ([Lee et al., 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf)).
 
-Variants of deep declarative networks have also been studied recently such as methods for imposing hard constraints on the output of neural network models (Neila et al., 2017) and novel models based on back-propagating through ordinary differential equations (Chen, 2018) and combinatorial submodular functions (Tschiatschek, 2018).
+Variants of deep declarative networks have also been studied recently such as methods for imposing hard constraints on the output of neural network models ([Neila et al., 2017](https://infoscience.epfl.ch/record/262884?ln=en)) and novel models based on back-propagating through ordinary differential equations ([Chen et al., 2018](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)) and combinatorial submodular functions ([Tschiatschek et al., 2018](https://las.inf.ethz.ch/files/tschiatschek18submodular-diff.pdf)).
 
-This workshop explores the advantages of declarative networks and their variants. We aim to discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics will include:
-Declarative end-to-end learnable processing nodes
-Differentiable constrained and unconstrained optimization problems
-Imposing hard constraints in deep learning models
-Backpropagation through physical models
-Applications of above to problems in computer vision
-
-The topic of this workshop generalizes several previous (and forthcoming) workshops at computer vision and machine learning venues. The advantage of this is that it brings together ideas explored in different contexts under the same umbrella of declarative networks. Related workshops include:
-Robust Subspace Learning and Applications Workshop, ICCV 2019, which will include sessions on clustering and subspace learning as nodes of a neural network (e.g., deep closed-form subspace learning, Seo et al.)
-Statistical Deep Learning in Computer Vision, ICCV 2019, will include topics on statistical meta-learning exploring generalization properties of neural network features.
-Smooth Games Optimization and Machine Learning Workshop, NeurIPS 2018, included topics from mathematical programming including bi-level optimization in a Generative Adversarial Network setting.
+This workshop explores the advantages of declarative networks and their variants, brining ideas developed in different contexts under the umbrella of deep declaratrive networks. We aim to discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics will include:
+* Declarative end-to-end learnable processing nodes
+* Differentiable constrained and unconstrained optimization problems
+* Imposing hard constraints in deep learning models
+* Backpropagation through physical models
+* Applications of above to problems in computer vision
 
 ## Program
 
@@ -38,7 +33,7 @@ Instructions coming soon...
 
 ## Organizers
 
-<div>
+<div align="center">
 <table style="text-align:center;">
   <tr>
     <td><img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
@@ -53,12 +48,11 @@ Instructions coming soon...
     <td><b>Richard Hartley</b><br>ANU</td>
   </tr>
 </table>
+Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
 </div>
 
 ---
 
 <center>
-Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
-<br>
 &copy; 2019
 </center>
