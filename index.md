@@ -14,7 +14,9 @@ Processing nodes in deep declarative networks involve solving an optimization pr
 
 Variants of deep declarative networks have also been studied recently such as methods for imposing hard constraints on the output of neural network models ([Neila et al., 2017](https://infoscience.epfl.ch/record/262884?ln=en)) and novel models based on back-propagating through ordinary differential equations ([Chen et al., 2018](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)) and combinatorial submodular functions ([Tschiatschek et al., 2018](https://las.inf.ethz.ch/files/tschiatschek18submodular-diff.pdf)).
 
-This workshop explores the advantages of declarative networks and their variants, brining ideas developed in different contexts under the umbrella of deep declaratrive networks. We will discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics include:
+### Topics
+
+This workshop explores the advantages of declarative networks and their variants, bringing ideas developed in different contexts under the umbrella of deep declaratrive networks. We will discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics include:
 * Declarative end-to-end learnable processing nodes
 * Differentiable constrained and unconstrained (non-convex) optimization problems
 * Differentiable convex optimization problems
