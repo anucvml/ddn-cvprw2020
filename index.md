@@ -20,7 +20,7 @@ Variants of deep declarative networks have also been studied recently such as me
 
 ### Topics
 
-This workshop explores the advantages of declarative networks and their variants, bringing ideas developed in different contexts under the umbrella of deep declaratrive networks. We will discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics include:
+This workshop explores the advantages (and potential shortcomings) of declarative networks and their variants, bringing ideas developed in different contexts under the umbrella of deep declarative networks. We will discuss technical issues that need to be overcome in developing such models and applications of these models to computer vision problems that show benefit over conventional approaches. Topics include:
 * Declarative end-to-end learnable processing nodes
 * Differentiable constrained and unconstrained (non-convex) optimization problems
 * Differentiable convex optimization problems
@@ -39,6 +39,12 @@ TBA
 ## Submission
 
 Instructions coming soon...
+
+### Important Dates (tentative)
+
+* Submission deadline: 1 March 2020
+* Author notification: 22 March 2020
+* Workshop camera-ready deadline: TBA
 
 ## Organizers
 
@@ -62,8 +68,3 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 </p>
 </div>
 
----
-
-<center>
-&copy; 2019
-</center>
