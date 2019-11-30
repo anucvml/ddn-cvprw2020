@@ -51,6 +51,7 @@ Instructions coming soon...
 </table>
 <p>
 Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
+</p>
 </div>
 
 ---
