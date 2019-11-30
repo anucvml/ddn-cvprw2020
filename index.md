@@ -39,7 +39,7 @@ Instructions coming soon...
 ## Organizers
 
 <div>
-<table>
+<table style="text-align:center;">
   <tr>
     <td><img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
     <td><img src="assets/acherian.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
@@ -47,10 +47,14 @@ Instructions coming soon...
     <td><img src="assets/rhartley.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
   </tr>
   <tr>
-    <td>Stephen Gould</td>
-    <td>Anoop Cherian</td>
-    <td>Dylan Campbell</td>
-    <td>Richard Hartley</td>
+    <td>Stephen Gould<br>ANU</td>
+    <td>Anoop Cherian<br>MERL</td>
+    <td>Dylan Campbell<br>ANU</td>
+    <td>Richard Hartley<br>ANU</td>
   </tr>
 </table>
 </div>
+
+---
+Contact: cvpr2020@deepdeclarativenetworks.com
+&copy; 2019
