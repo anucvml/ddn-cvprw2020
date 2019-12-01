@@ -68,6 +68,12 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 </p>
 </div>
 
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-xs-1"></div>
   <div class="col-xs-2">
