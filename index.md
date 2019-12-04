@@ -110,4 +110,6 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
   </div>
 </div>
 <br>
-
+<p>
+Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
+</p>
