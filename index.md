@@ -73,39 +73,39 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 
 <div class="row">
   <div class="col-xs-3">
-    <a href="https://cecs.anu.edu.au/people/stephen-gould/">
+    <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">
       <img class="people-pic" src="assets/sgould.jpg">
     </a>
     <div class="people-name">
-      <a href="https://cecs.anu.edu.au/people/stephen-gould/">Stephen Gould</a>
-      <h6>Australian National University</h6>
+      <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">Stephen Gould</a>
+      Australian National University
     </div>
   </div>
   <div class="col-xs-3">
-    <a href="http://www.merl.com/people/cherian/">
+    <a href="http://www.merl.com/people/cherian/" target="_blank">
       <img class="people-pic" src="assets/acherian.jpg">
     </a>
     <div class="people-name">
-      <a href="http://www.merl.com/people/cherian/">Anoop Cherian</a>
-      <h6>MERL</h6>
+      <a href="http://www.merl.com/people/cherian/" target="_blank">Anoop Cherian</a>
+      MERL
     </div>
   </div>
   <div class="col-xs-3">
-    <a href="https://sites.google.com/view/djcampbell/">
+    <a href="https://sites.google.com/view/djcampbell/" target="_blank">
       <img class="people-pic" src="assets/dcampbell.jpg">
     </a>
     <div class="people-name">
-      <a href="https://sites.google.com/view/djcampbell/">Dylan Campbell</a>
-      <h6>Australian National University</h6>
+      <a href="https://sites.google.com/view/djcampbell/" target="_blank">Dylan Campbell</a>
+      Australian National University
     </div>
   </div>
   <div class="col-xs-3">
-    <a href="https://cecs.anu.edu.au/people/richard-hartley/">
+    <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">
       <img class="people-pic" src="assets/rhartley.jpg">
     </a>
     <div class="people-name">
-      <a href="https://cecs.anu.edu.au/people/richard-hartley/">Richard Hartley</a>
-      <h6>Australian National University</h6>
+      <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">Richard Hartley</a>
+      Australian National University
     </div>
   </div>
 </div>
