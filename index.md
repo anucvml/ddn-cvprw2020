@@ -1,5 +1,5 @@
 ## Deep Declarative Networks
-CVPR Workshop 2020, June, Seattle, Washington, USA
+[CVPR Workshop 2020](http://cvpr2020.thecvf.com/program/workshops), June, Seattle, Washington, USA
 
 ---
 
