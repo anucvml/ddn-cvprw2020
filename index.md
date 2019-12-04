@@ -8,7 +8,7 @@ CVPR Workshop 2020, June, Seattle, Washington, USA
 [Submission](#submission) |
 [Organizers](#organizers)
 
-Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them **deep declarative networks**, borrowing nomenclature from the programming community ([Gould et al., 2019](https://arxiv.org/abs/1607.05447)).
+Conventional deep learning architectures involve composition of simple feedforward processing functions that are explicitly defined. Recently, researchers have been exploring deep learning models with implicitly defined components. To distinguish these from conventional deep learning models we call them **deep declarative networks**, borrowing nomenclature from the programming languages community ([Gould et al., 2019](https://arxiv.org/abs/1607.05447)).
 
 <center>
 <img src="assets/declarative_node.png" width="50%">
@@ -48,6 +48,7 @@ Instructions coming soon...
 
 ## Organizers
 
+<!--
 <div>
 <table style="text-align:center;">
   <tr>
@@ -67,6 +68,7 @@ Instructions coming soon...
 Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
 </p>
 </div>
+-->
 
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
