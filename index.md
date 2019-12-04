@@ -76,16 +76,16 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
     <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">
       <img class="people-pic" src="assets/sgould.jpg">
     </a>
-    <div class="people-name">
+    <div class="people-name text-center">
       <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">Stephen Gould</a>
-      Australian National University
+      ANU
     </div>
   </div>
   <div class="col-xs-3">
     <a href="http://www.merl.com/people/cherian/" target="_blank">
       <img class="people-pic" src="assets/acherian.jpg">
     </a>
-    <div class="people-name">
+    <div class="people-name text-center">
       <a href="http://www.merl.com/people/cherian/" target="_blank">Anoop Cherian</a>
       MERL
     </div>
@@ -94,18 +94,18 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
     <a href="https://sites.google.com/view/djcampbell/" target="_blank">
       <img class="people-pic" src="assets/dcampbell.jpg">
     </a>
-    <div class="people-name">
+    <div class="people-name text-center">
       <a href="https://sites.google.com/view/djcampbell/" target="_blank">Dylan Campbell</a>
-      Australian National University
+      ANU
     </div>
   </div>
   <div class="col-xs-3">
     <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">
       <img class="people-pic" src="assets/rhartley.jpg">
     </a>
-    <div class="people-name">
+    <div class="people-name text-center">
       <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">Richard Hartley</a>
-      Australian National University
+      ANU
     </div>
   </div>
 </div>
