@@ -71,15 +71,8 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-
 <div class="row">
-  <div class="col-xs-1"></div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://cecs.anu.edu.au/people/stephen-gould/">
       <img class="people-pic" src="assets/sgould.jpg">
     </a>
@@ -88,7 +81,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <h6>Australian National University</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="http://www.merl.com/people/cherian/">
       <img class="people-pic" src="assets/acherian.jpg">
     </a>
@@ -97,7 +90,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <h6>MERL</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://sites.google.com/view/djcampbell/">
       <img class="people-pic" src="assets/dcampbell.jpg">
     </a>
@@ -106,7 +99,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <h6>Australian National University</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <div class="col-xs-3">
     <a href="https://cecs.anu.edu.au/people/richard-hartley/">
       <img class="people-pic" src="assets/rhartley.jpg">
     </a>
@@ -115,7 +108,6 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <h6>Australian National University</h6>
     </div>
   </div>
-  <div class="col-xs-1"></div>
 </div>
 <br>
 
