@@ -67,6 +67,17 @@ TBA
       EPFL
     </div>
   </div>  
+</div>
+<div class="row">
+  <div class="col-xs-3">
+    <a href="https://people.cs.umass.edu/~smaji/" target="_blank">
+      <img class="people-pic" src="assets/smaji.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://people.cs.umass.edu/~smaji/" target="_blank">Subhransu Maji</a><br>
+      UMass Amherst
+    </div>
+  </div> 
 
   <div class="col-xs-3">
     <a href="http://zicokolter.com/" target="_blank">
