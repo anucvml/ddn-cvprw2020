@@ -40,7 +40,7 @@ TBA
 <div class="row">
   <div class="col-xs-3">
     <a href="http://bamos.github.io/" target="_blank">
-      <img class="people-pic" src="assets/bamos.jpg">
+      <img class="people-pic" src="assets/bamos.png">
     </a>
     <div class="people-name text-center">
       <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a>
