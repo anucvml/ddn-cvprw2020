@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
+
 ## Deep Declarative Networks
 [CVPR Workshop 2020](http://cvpr2020.thecvf.com/program/workshops), June, Seattle, Washington, USA
 
@@ -34,7 +37,49 @@ TBA
 
 ## Invited Speakers
 
-TBA
+<div class="row">
+  <div class="col-xs-3">
+    <a href="http://bamos.github.io/" target="_blank">
+      <img class="people-pic" src="assets/bamos.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a>
+      Facebook AI
+    </div>
+   </div>
+   
+   <div class="col-xs-3">
+    <a href="http://www.cs.toronto.edu/~rtqichen/" target="_blank">
+      <img class="people-pic" src="assets/rchen.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://www.cs.toronto.edu/~rtqichen/" target="_blank">Ricky TQ Chen</a>
+      University of Toronto
+    </div>
+  </div>
+  
+  <div class="col-xs-3">
+    <a href="https://icwww.epfl.ch/~fua/" target="_blank">
+      <img class="people-pic" src="assets/pfua.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://icwww.epfl.ch/~fua/" target="_blank">Pascal Fua</a>
+      EPFL
+    </div>
+  </div>  
+
+  <div class="col-xs-3">
+    <a href="http://zicokolter.com/" target="_blank">
+      <img class="people-pic" src="assets/zkolter.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>
+      CMU
+    </div>
+  </div> 
+</div>
+
+...and more to be announced soon.
 
 ## Submission
 
@@ -69,9 +114,6 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 </p>
 </div>
 -->
-
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 <div class="row">
   <div class="col-xs-3">
