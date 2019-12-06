@@ -43,7 +43,7 @@ TBA
       <img class="people-pic" src="assets/bamos.png">
     </a>
     <div class="people-name text-center">
-      <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a>
+      <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a><br>
       Facebook AI
     </div>
    </div>
@@ -53,7 +53,7 @@ TBA
       <img class="people-pic" src="assets/rchen.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="http://www.cs.toronto.edu/~rtqichen/" target="_blank">Ricky TQ Chen</a>
+      <a href="http://www.cs.toronto.edu/~rtqichen/" target="_blank">Ricky TQ Chen</a><br>
       University of Toronto
     </div>
   </div>
@@ -63,7 +63,7 @@ TBA
       <img class="people-pic" src="assets/pfua.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="https://icwww.epfl.ch/~fua/" target="_blank">Pascal Fua</a>
+      <a href="https://icwww.epfl.ch/~fua/" target="_blank">Pascal Fua</a><br>
       EPFL
     </div>
   </div>  
@@ -73,7 +73,7 @@ TBA
       <img class="people-pic" src="assets/zkolter.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>
+      <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a><br>
       CMU
     </div>
   </div> 
@@ -121,7 +121,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <img class="people-pic" src="assets/sgould.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">Stephen Gould</a>
+      <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">Stephen Gould</a><br>
       ANU
     </div>
   </div>
@@ -130,7 +130,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <img class="people-pic" src="assets/acherian.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="http://www.merl.com/people/cherian/" target="_blank">Anoop Cherian</a>
+      <a href="http://www.merl.com/people/cherian/" target="_blank">Anoop Cherian</a><br>
       MERL
     </div>
   </div>
@@ -139,7 +139,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <img class="people-pic" src="assets/dcampbell.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="https://sites.google.com/view/djcampbell/" target="_blank">Dylan Campbell</a>
+      <a href="https://sites.google.com/view/djcampbell/" target="_blank">Dylan Campbell</a><br>
       ANU
     </div>
   </div>
@@ -148,7 +148,7 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
       <img class="people-pic" src="assets/rhartley.jpg">
     </a>
     <div class="people-name text-center">
-      <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">Richard Hartley</a>
+      <a href="https://cecs.anu.edu.au/people/richard-hartley/" target="_blank">Richard Hartley</a><br>
       ANU
     </div>
   </div>
