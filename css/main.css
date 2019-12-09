@@ -150,7 +150,7 @@ div.speaker p.speaker-bio {
 .people-pic {
   max-width: 125px;
   max-height: 125px;
-  border-radius: 50%;
+  border-radius: 125px;
 }
 
 .people-name {
