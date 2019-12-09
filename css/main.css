@@ -86,7 +86,7 @@ a {
 }
 
 a img {
-  border-style: none;
+  border: 0;
 }
 
 .navbar a {
