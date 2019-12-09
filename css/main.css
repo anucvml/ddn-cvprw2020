@@ -73,7 +73,6 @@ p.authors a {
 
 img {
   max-width: 100%;
-  border-style: none;
 }
 
 p {
@@ -152,6 +151,10 @@ div.speaker p.speaker-bio {
   max-width: 125px;
   max-height: 125px;
   border-radius: 50%;
+}
+
+.people-pic a {
+  border-bottom: 0;
 }
 
 .people-name {
