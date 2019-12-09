@@ -128,9 +128,12 @@ Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdecl
 
 <div class="row">
   <div class="col-xs-3">
+    <img class="people-pic" src="assets/sgould.jpg">
+<!--
     <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">
       <img class="people-pic" src="assets/sgould.jpg">
     </a>
+-->
     <div class="people-name text-center">
       <a href="https://cecs.anu.edu.au/people/stephen-gould/" target="_blank">Stephen Gould</a><br>
       ANU
