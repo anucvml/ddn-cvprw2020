@@ -151,7 +151,7 @@ div.speaker p.speaker-bio {
   max-width: 125px;
   max-height: 125px;
   border-radius: 50%;
-  border: none;
+  padding: 0;
 }
 
 .people-name {
