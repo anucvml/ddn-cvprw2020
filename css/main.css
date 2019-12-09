@@ -85,6 +85,10 @@ a {
   color: inherit;
 }
 
+a img {
+  border-style: none;
+}
+
 .navbar a {
   border-bottom: 0;
 }
@@ -151,7 +155,6 @@ div.speaker p.speaker-bio {
   max-width: 125px;
   max-height: 125px;
   border-radius: 50%;
-  border-style: none;
 }
 
 .people-name {
