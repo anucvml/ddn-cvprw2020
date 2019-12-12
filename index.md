@@ -97,7 +97,7 @@ TBA
 
 Instructions coming soon...
 
-### Important Dates (tentative)
+## Important Dates (tentative)
 
 * Submission deadline: 1 March 2020
 * Author notification: 22 March 2020
