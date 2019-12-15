@@ -95,7 +95,7 @@ TBA
 
 ## Submission
 
-We invite paper submissions of up to four (4) pages describing work in areas related to the workshop [topics](#topics).
+We invite paper submissions of up to **four (4) pages** describing work in areas related to the workshop [topics](#topics).
 
 Accepted submissions will be presented as short orals or posters at the workshop and will appear on the workshop website. Authors will be given an opportunity to revise the submission before posting on the website. Papers should follow the CVPR formatting guidelines and emailed as a single PDF to <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>, with subject line `Paper: <title>`. Submissions are not anonymous (and should include all authors' names and affiliations). References are to be included in the 4-page limit.
 
@@ -103,7 +103,7 @@ Accepted submissions will be presented as short orals or posters at the workshop
 
 We encourage submissions of preliminary or ongoing work. Accepted papers will not appear in the official IEEE proceedings. Relevant work that has previously been published or is to be presented at the main conference is also welcome.
 
-## Important Dates (tentative)
+### Important Dates
 
 * Submission deadline: 1 March 2020
 * Author notification: 22 March 2020
