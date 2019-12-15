@@ -30,7 +30,7 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 * Differentiable convex optimization problems
 * Imposing hard constraints in deep learning models
 * Back-propagation through physical models
-* Applications of the above to problems in computer vision
+* Applications of the above to problems in computer vision such as differentiable rendering, differentiable 3d models, reinforcement learning, action recognition, meta-learning, etc.
 
 ## Program
 
@@ -95,37 +95,21 @@ TBA
 
 ## Submission
 
-Instructions coming soon...
+We invite paper submissions of up to four (4) pages describing work in areas related to the workshop [topics](#topics).
 
-## Important Dates (tentative)
+Accepted submissions will be presented as short orals or posters at the workshop and will appear on the workshop website. Authors will be given an opportunity to revise the submission before posting on the website. Papers should follow the CVPR formatting guidelines and emailed as a single PDF to cvpr2020@deepdeclarativenetworks.com, with subject line "Paper: `<title>`". Submissions are not anonymous (and should include all authors' names and affiliations). References are to be included in the 4-page limit.
+
+### Dual Submissions
+
+We encourage submissions of preliminary or ongoing work. Accepted papers will not appear in the official IEEE proceedings. Relevant work that has previously been published or is to be presented at the main conference is also welcome.
+
+### Important Dates (tentative)
 
 * Submission deadline: 1 March 2020
 * Author notification: 22 March 2020
 * Workshop camera-ready deadline: TBA
 
 ## Organizers
-
-<!--
-<div>
-<table style="text-align:center;">
-  <tr>
-    <td><img src="assets/sgould.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
-    <td><img src="assets/acherian.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
-    <td><img src="assets/dcampbell.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
-    <td><img src="assets/rhartley.jpg" height="100px" width="100px" style="border-radius: 50%;" /></td>
-  </tr>
-  <tr>
-    <td><b>Stephen Gould</b><br>ANU</td>
-    <td><b>Anoop Cherian</b><br>MERL</td>
-    <td><b>Dylan Campbell</b><br>ANU</td>
-    <td><b>Richard Hartley</b><br>ANU</td>
-  </tr>
-</table>
-<p>
-Contact: <a href="mailto:cvpr2020@deepdeclarativenetworks.com">cvpr2020@deepdeclarativenetworks.com</a>
-</p>
-</div>
--->
 
 <div class="row">
   <div class="col-xs-3">
