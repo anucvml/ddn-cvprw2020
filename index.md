@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[CVPR 2020 Workshop](http://cvpr2020.thecvf.com/program/workshops), June, Seattle, Washington, USA
+[CVPR 2020 Workshop](http://cvpr2020.thecvf.com/program/workshops), 14 June, Seattle, Washington, USA
 
 ---
 
@@ -107,7 +107,8 @@ We encourage submissions of preliminary or ongoing work. Accepted papers will no
 
 * Submission deadline: 1 March 2020
 * Author notification: 22 March 2020
-* Workshop camera-ready deadline: TBA
+* Workshop camera-ready deadline: 1 May 2020
+* Workshop date: 14 June 2020
 
 ## Organizers
 
