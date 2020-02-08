@@ -60,6 +60,18 @@ TBA
   </div>
   
   <div class="col-xs-3">
+    <a href="https://ai.stanford.edu/~cbfinn/" target="_blank">
+      <img class="people-pic" src="assets/cfinn.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://ai.stanford.edu/~cbfinn/" target="_blank">Chelsea Finn</a><br>
+      Stanford
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-3">
     <a href="https://icwww.epfl.ch/~fua/" target="_blank">
       <img class="people-pic" src="assets/pfua.jpg">
     </a>
@@ -68,8 +80,7 @@ TBA
       EPFL
     </div>
   </div>  
-</div>
-<div class="row">
+
   <div class="col-xs-3">
     <a href="https://people.cs.umass.edu/~smaji/" target="_blank">
       <img class="people-pic" src="assets/smaji.jpg">
@@ -90,8 +101,6 @@ TBA
     </div>
   </div> 
 </div>
-
-...and more to be announced soon.
 
 ## Submission
 
