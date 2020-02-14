@@ -110,7 +110,7 @@ Accepted submissions will be presented as short orals or posters at the workshop
 
 ### Dual Submissions
 
-We encourage submissions of preliminary or ongoing work. Accepted papers will not appear in the official IEEE proceedings. Relevant work that has previously been published or is to be presented at the main conference is also welcome.
+We encourage submissions of preliminary or ongoing work. Accepted papers will not appear in the official IEEE proceedings but will be made public on this website. Relevant work that has previously been published or is to be presented at the main conference is also welcome.
 
 ### Important Dates
 
