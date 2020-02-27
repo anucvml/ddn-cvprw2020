@@ -115,7 +115,7 @@ We encourage submissions of preliminary or ongoing work. Accepted papers will no
 ### Important Dates
 
 * Submission deadline: ~~1 March 2020~~ 20 March 2020 **(extended)**
-* Author notification: 10 April 2020
+* Author notification: 13 April 2020
 * Workshop camera-ready deadline: 8 May 2020
 * Workshop date: 14 June 2020
 
