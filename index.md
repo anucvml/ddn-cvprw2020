@@ -8,6 +8,7 @@
 
 [Program](#program) |
 [Invited Speakers](#invited-speakers) |
+[Accepted Papers](#accepted-papers) |
 [Submission](#submission) |
 [Important Dates](#important-dates) |
 [Organizers](#organizers)
