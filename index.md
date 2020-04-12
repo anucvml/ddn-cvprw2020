@@ -102,6 +102,16 @@ TBA
   </div> 
 </div>
 
+## Accepted Papers
+
+* Zan Gojic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*".
+* Edward Grefenstette, Brandon Amos, Denis Yarats, Phu Mon Htut, Artem Molchanov, Franziska Meier, Douwe Kiela, Kyunghyun Cho and Soumith Chintala, "*`higher`: A Pytorch Meta-Learning Library*".
+* Krishna Murthy Jatavallabhula, Ganesh Iyer, Soroush Saryazdi and Liam Paull, "*&nabla;SLAM: Automagically differentiable SLAM*".
+* Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation LearningWith Closed-Form Solvers*".
+* Matteo Toso, Neill D. F. Campbell and Chris Russell, "*Fixing Implicit Derivatives: Trust-Region Based Learning of Continuous Energy Functions (Abridged)*".
+
+**PDFs coming soon**
+
 ## Submission
 
 We invite paper submissions of up to **four (4) pages** describing work in areas related to the workshop [topics](#topics).
