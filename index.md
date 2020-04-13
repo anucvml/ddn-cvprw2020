@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css?1" media="screen,projection">
 
 ## Deep Declarative Networks
-[CVPR 2020 Workshop](http://cvpr2020.thecvf.com/program/workshops), 14 June, Seattle, Washington, USA
+[CVPR 2020 Workshop](http://cvpr2020.thecvf.com/workshops-schedule), 14 June, Seattle, Washington, USA
 
 ---
 
