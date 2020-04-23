@@ -6,6 +6,10 @@
 
 ---
 
+> :information_source: **News (24-April-2020):** We're working on delivering the workshop in virtual form. Stay tuned for announcements here and from the main CVPR conference organizers.
+
+---
+
 [Program](#program) |
 [Speakers](#invited-speakers) |
 [Papers](#accepted-papers) |
@@ -105,7 +109,7 @@ TBA
 
 ## Accepted Papers
 
-* Zan Gojic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*".
+* Zan Gojcic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*".
 * Edward Grefenstette, Brandon Amos, Denis Yarats, Phu Mon Htut, Artem Molchanov, Franziska Meier, Douwe Kiela, Kyunghyun Cho and Soumith Chintala, "*`higher`: A Pytorch Meta-Learning Library*".
 * Krishna Murthy Jatavallabhula, Ganesh Iyer, Soroush Saryazdi and Liam Paull, "*&nabla;SLAM: Automagically differentiable SLAM*".
 * Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation LearningWith Closed-Form Solvers*".
