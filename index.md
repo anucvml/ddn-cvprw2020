@@ -115,8 +115,6 @@ TBA
 * Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation Learning With Closed-Form Solvers*". [[pdf]](papers/Bashir_et_al_cvprw2020.pdf)
 * Matteo Toso, Neill D. F. Campbell and Chris Russell, "*Fixing Implicit Derivatives: Trust-Region Based Learning of Continuous Energy Functions (Abridged)*". [[pdf]](papers/Toso_et_al_cvprw2020.pdf)
 
-**PDFs coming soon**
-
 ## Submission
 
 We invite paper submissions of up to **four (4) pages** describing work in areas related to the workshop [topics](#topics).
