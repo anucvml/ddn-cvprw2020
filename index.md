@@ -6,6 +6,7 @@
 
 ---
 
+> :information_source: **News (11-May-2020):** CVPR will be 100% virtual. The workshop will run 9:15am to 4:00pm PDT (14 June) and then repeat 9:15pm to 4:00am PDT (15 June). A full schedule will be posted by the end of May.
 > :information_source: **News (24-April-2020):** We're working on delivering the workshop in virtual form. Stay tuned for announcements here and from the main CVPR conference organizers.
 
 ---
