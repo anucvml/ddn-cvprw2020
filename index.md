@@ -37,7 +37,7 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 * Back-propagation through physical models
 * Applications of the above to problems in computer vision such as differentiable rendering, differentiable 3d models, reinforcement learning, action recognition, meta-learning, etc.
 
-## Program (tentative)
+## Program
 
 The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion formums. Times below are given for the first instance; add 12 hours for the repeated sessions.
 
