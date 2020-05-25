@@ -43,25 +43,25 @@ The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to
 
 <style>
 table th {
-    padding: 15px;
+    padding: 10px;
 }
 table td {
-    padding: 15px;
+    padding: 10px;
 }
 table th:first-of-type {
-    width: 20%;
+    width: 19%;
 }
 table th:nth-of-type(2) {
-    width: 20%;
+    width: 19%;
 }
 table th:nth-of-type(3) {
-    width: 20%;
+    width: 19%;
 }
 table th:nth-of-type(4) {
-    width: 20%;
+    width: 19%;
 }
 table th:nth-of-type(5) {
-    width: 20%;
+    width: 24%;
 }
 </style>
 
