@@ -41,7 +41,23 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 
 The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion formums. Times below are given for the first instance; add 12 hours for the repeated sessions.
 
-<div class="programtable">
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 20%;
+}
+table th:nth-of-type(5) {
+    width: 20%;
+}
+</style>
 
 | Time (PDT) | Time (EDT) | Time (CEST) | Time (AEST) | Session |
 |------------|------------|-------------|-------------|---------|
@@ -56,8 +72,6 @@ The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to
 |  2:30pm    |  5:30pm    | 11:30pm     |  7:30am     | Invited talk #5 |
 |  3:00pm    |  6:00pm    | 12:00am     |  8:00am     | Invited talk #6 |
 |  3:30pm    |  6:30pm    | 12:30am     |  8:30am     | Closing remarks |
-
-</div>
 
 * AEST is +1 day.
 
