@@ -59,7 +59,7 @@ table th:nth-of-type(5) {
 }
 </style>
 
-| Time (PDT) | Time (EDT) | Time (CEST) | Time (AEST) | Session |
+| Time (PDT) | Time (EDT) | Time (CEST) | Time (AEST) | <div style="width:300px">Session</div> |
 |------------|------------|-------------|-------------|---------|
 |  9:15am    | 12:15pm    |  6:15pm     |  2:15am     | Welcome |
 |  9:30am    | 12:30pm    |  6:30pm     |  2:30am     | Invited talk #1 |
