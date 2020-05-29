@@ -6,11 +6,11 @@
 <div class="container">
   <div class="row">
     <div class="col-sx-3">
-      <center>
+      <div class="text-center">
       <a href="http://bamos.github.io/" target="_blank">
         <img class="people-pic" src="assets/bamos.png">
       </a>
-      </center>
+      </div>
       <div class="people-name text-center">
         <a href="http://bamos.github.io/" target="_blank">Brandon Amos</a><br>
         Facebook AI
