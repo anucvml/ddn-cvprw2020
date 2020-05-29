@@ -68,15 +68,15 @@ table th:nth-of-type(5) {
 | Time (PDT) | Time (EDT) | Time (CEST) | Time (AEST) | Session |
 |------------|------------|-------------|-------------|---------|
 |  9:15am    | 12:15pm    |  6:15pm     |  2:15am     | [Welcome](https://youtu.be/uNQ9-HgMU_I) |
-|  9:30am    | 12:30pm    |  6:30pm     |  2:30am     | Invited talk #1 |
-| 10:00am    |  1:00pm    |  7:00pm     |  3:00am     | Invited talk #2 |
-| 10:30am    |  1:30pm    |  7:30pm     |  3:30am     | Invited talk #3 |
+|  9:30am    | 12:30pm    |  6:30pm     |  2:30am     | [Invited talk #1 (Amos)](talk1) |
+| 10:00am    |  1:00pm    |  7:00pm     |  3:00am     | Invited talk #2 (Chen) |
+| 10:30am    |  1:30pm    |  7:30pm     |  3:30am     | Invited talk #3 (Finn) |
 | 11:00am    |  2:00pm    |  8:00pm     |  4:00am     | Break |
 | 11:15am    |  2:15pm    |  8:15pm     |  4:15am     | Paper orals |
 | 12:30pm    |  3:30pm    |  9:30pm     |  5:30am     | Poster session |
-|  2:00pm    |  5:00pm    | 11:00pm     |  7:00am     | Invited talk #4 |
-|  2:30pm    |  5:30pm    | 11:30pm     |  7:30am     | Invited talk #5 |
-|  3:00pm    |  6:00pm    | 12:00am     |  8:00am     | Invited talk #6 |
+|  2:00pm    |  5:00pm    | 11:00pm     |  7:00am     | Invited talk #4 (Fua) |
+|  2:30pm    |  5:30pm    | 11:30pm     |  7:30am     | Invited talk #5 (Maji) |
+|  3:00pm    |  6:00pm    | 12:00am     |  8:00am     | Invited talk #6 (Kolter) |
 |  3:30pm    |  6:30pm    | 12:30am     |  8:30am     | Closing remarks |
 
 * AEST is +1 day.
