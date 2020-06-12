@@ -145,7 +145,7 @@ table th:nth-of-type(5) {
 
 ## Accepted Papers
 
-* Zan Gojcic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*". \[[pdf](papers/Gojcic_et_al_cvprw2020.pdf) | [oral](https://youtu.be/xS1voun0rpg)\]
+* Zan Gojcic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*". &#91;[pdf](papers/Gojcic_et_al_cvprw2020.pdf) | [oral](https://youtu.be/xS1voun0rpg)&#93;
 * Edward Grefenstette, Brandon Amos, Denis Yarats, Phu Mon Htut, Artem Molchanov, Franziska Meier, Douwe Kiela, Kyunghyun Cho and Soumith Chintala, "*`higher`: A Pytorch Meta-Learning Library*". \[[pdf](papers/Grefenstette_et_al_cvprw2020.pdf) | [oral](https://youtu.be/0w7HG7NcvXM)\]
 * Krishna Murthy Jatavallabhula, Ganesh Iyer, Soroush Saryazdi and Liam Paull, "*&nabla;SLAM: Automagically differentiable SLAM*". \[[pdf](papers/Murthy_et_al_cvprw2020.pdf) | [oral](https://youtu.be/FnscjCh8cSU)\]
 * Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation Learning With Closed-Form Solvers*". \[[pdf](papers/Bashir_et_al_cvprw2020.pdf) | [oral](https://youtu.be/8oxKn5Fx11s)\]
