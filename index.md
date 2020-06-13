@@ -37,14 +37,6 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 
 The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion forums. Times below are given for the first instance; **add 12 hours for the repeated sessions**.
 
-<iframe src="https://www.youtube.com/embed/uNQ9-HgMU_I" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-<p/>
-
 <style>
 table th {
     padding: 1%;
