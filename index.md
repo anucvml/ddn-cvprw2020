@@ -35,7 +35,7 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 
 ## Program
 
-The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion forums. Times below are given for the first instance; **add 12 hours for the repeated sessions**.
+The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion forums. **All sessions are live**. Times below are given for the first instance; **add 12 hours for the repeated sessions**.
 
 <style>
 table th {
@@ -68,8 +68,8 @@ table th:nth-of-type(5) {
 | 10:00am    |  1:00pm    |  7:00pm     |  3:00am     | [Invited talk #2 (Chen)](talk2) |
 | 10:30am    |  1:30pm    |  7:30pm     |  3:30am     | [Invited talk #3 (Finn)](talk3) |
 | 11:00am    |  2:00pm    |  8:00pm     |  4:00am     | Break |
-| 11:15am    |  2:15pm    |  8:15pm     |  4:15am     | Paper orals |
-| 12:30pm    |  3:30pm    |  9:30pm     |  5:30am     | Poster session |
+| 11:15am    |  2:15pm    |  8:15pm     |  4:15am     | [Paper orals](#accepted-papers) |
+| 12:30pm    |  3:30pm    |  9:30pm     |  5:30am     | [Poster session](#accepted-papers) |
 |  2:00pm    |  5:00pm    | 11:00pm     |  7:00am     | [Invited talk #4 (Fua)](talk4) |
 |  2:30pm    |  5:30pm    | 11:30pm     |  7:30am     | [Invited talk #5 (Maji)](talk5) |
 |  3:00pm    |  6:00pm    | 12:00am     |  8:00am     | [Invited talk #6 (Kolter)](talk6) |
@@ -145,11 +145,11 @@ table th:nth-of-type(5) {
 
 ## Accepted Papers
 
-* Zan Gojcic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*". \[[pdf](papers/Gojcic_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/xS1voun0rpg)\]
-* Edward Grefenstette, Brandon Amos, Denis Yarats, Phu Mon Htut, Artem Molchanov, Franziska Meier, Douwe Kiela, Kyunghyun Cho and Soumith Chintala, "*`higher`: A Pytorch Meta-Learning Library*". \[[pdf](papers/Grefenstette_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/0w7HG7NcvXM)\]
-* Krishna Murthy Jatavallabhula, Ganesh Iyer, Soroush Saryazdi and Liam Paull, "*&nabla;SLAM: Automagically differentiable SLAM*". \[[pdf](papers/Murthy_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/FnscjCh8cSU)\]
-* Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation Learning With Closed-Form Solvers*". \[[pdf](papers/Bashir_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/8oxKn5Fx11s)\]
-* Matteo Toso, Neill D. F. Campbell and Chris Russell, "*Fixing Implicit Derivatives: Trust-Region Based Learning of Continuous Energy Functions (Abridged)*". \[[pdf](papers/Toso_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/ZLDIrjrSmNg)\]
+* Zan Gojcic, Caifa Zhou, Jan D. Wegner, Leonidas J. Guibas and Tolga Birdal, "*End-to-end globally consistent registration of multiple point clouds*". \[[pdf](papers/Gojcic_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/xS1voun0rpg) \| [live Q&A](http://cvpr20.com/event/end-to-end-globally-consistent-registration-of-multiple-point-clouds-2/)\]
+* Edward Grefenstette, Brandon Amos, Denis Yarats, Phu Mon Htut, Artem Molchanov, Franziska Meier, Douwe Kiela, Kyunghyun Cho and Soumith Chintala, "*`higher`: A Pytorch Meta-Learning Library*". \[[pdf](papers/Grefenstette_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/0w7HG7NcvXM) \| [live Q&A](http://cvpr20.com/event/higher-a-pytorch-meta-learning-library-2/)\]
+* Krishna Murthy Jatavallabhula, Ganesh Iyer, Soroush Saryazdi and Liam Paull, "*&nabla;SLAM: Automagically differentiable SLAM*". \[[pdf](papers/Murthy_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/FnscjCh8cSU) \| [live Q&A](http://cvpr20.com/event/delta-slam-automagically-differentiable-slam-2/)\]
+* Bashir Sadeghi, Lan Wang and Vishnu Boddeti, "*Adversarial Representation Learning With Closed-Form Solvers*". \[[pdf](papers/Bashir_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/8oxKn5Fx11s) \| [live Q&A](http://cvpr20.com/event/adversarial-representation-learning-with-closed-form-solvers-2/)\]
+* Matteo Toso, Neill D. F. Campbell and Chris Russell, "*Fixing Implicit Derivatives: Trust-Region Based Learning of Continuous Energy Functions (Abridged)*". \[[pdf](papers/Toso_et_al_cvprw2020.pdf) \| [oral](https://youtu.be/ZLDIrjrSmNg) \| [live Q&A](http://cvpr20.com/event/fixing-implicit-derivatives-trust-region-based-learning-of-continuous-energy-functions-abridged-2/)\]
 
 ## Submission
 
