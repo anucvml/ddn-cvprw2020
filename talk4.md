@@ -35,4 +35,7 @@
 * Udaranga Wickramasinghe, Edoardo Remelli, Graham Knott, Pascal Fua, "*Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data*" [[paper]](https://arxiv.org/abs/1912.03681)
 * Edoardo Remelli, Artem Lukoianov, Stephan R. Richter, Benoît Guillard, Timur Bagautdinov, Pierre Baque, Pascal Fua, "*MeshSDF: Differentiable Iso-Surface Extraction*" [[paper]](https://arxiv.org/abs/2006.03997)
 
+<p/>
+[back](https://anucvml.github.io/ddn-cvprw2020/#program)
+
 
