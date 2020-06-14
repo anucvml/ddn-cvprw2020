@@ -18,3 +18,14 @@
     Differentiable optimization enables new modeling operations to be end-to-end learned for control and vision. The first part of this talk will cover how classic operations can be interpreted as solving optimization problems so that they can be made differentiable, such as the top-k operation, which can be seen as projecting onto a polytope. We will then discuss foundational ideas and tools for unrolling through optimizers such as gradient descent and the cross-entropy method to add end-to-end learning to settings that use these optimizers. Lastly we'll discuss the objective mismatch problem in model-based control and how differentiable optimization is a potential solution to it.
   </div>
 </div>
+<p/>
+
+## Video
+
+<iframe src="https://www.youtube.com/embed/7xK-wX8QHVE" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+<p/>
