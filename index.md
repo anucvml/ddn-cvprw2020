@@ -41,9 +41,7 @@ This workshop explores the advantages (and potential shortcomings) of declarativ
 
 The workshop is 100% virtual and will run as a 12+12 format, 9:15am (14 June) to 4:00pm (14 June) PDT and repeating 9:15pm (14 June) to 4:00am (15 June) PDT. The program includes a mix of live and pre-recorded talks, Q&A and poster sessions, and asynchronous discussion forums. Times below are given for the first instance; **add 12 hours for the repeated sessions**.
 
-<p style="color:red">
-Click [here](https://zoom.us/j/92991078064?pwd=Vy8xMmJQZ1R2NUFtaUR4VDdKRHprQT09) to join all live workshop sessions (other than the poster presentations) via Zoom. Follow the links [below](#accepted-papers) for poster presentations (CVPR registered attendees only).
-</p>
+:information_source: Click [here](https://zoom.us/j/92991078064?pwd=Vy8xMmJQZ1R2NUFtaUR4VDdKRHprQT09) to join all live workshop sessions (other than the poster presentations) via Zoom. Follow the links [below](#accepted-papers) for poster presentations (CVPR registered attendees only).
 
 <style>
 table th {
