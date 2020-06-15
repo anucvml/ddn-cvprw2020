@@ -18,3 +18,16 @@
     While meta-learning has shown tremendous potential for enabling  earning and generalization from only a few examples, its success beyond few-shot learning has remained less clear. In this talk, I'll discuss our recent work that  studies new challenges including handling distribution shift, discovering equivariances from data, and generalizing to qualitatively distinct tasks. In doing so, I'll shed light on the potential for meta-learning to tackle these problems, and the challenges that remain.
   </div>
 </div>
+<p/>
+
+## Video
+
+<iframe src="https://www.youtube.com/embed/mNQC0SXB7NE" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+<p/>
+
+[back](https://anucvml.github.io/ddn-cvprw2020/#program)
