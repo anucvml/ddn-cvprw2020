@@ -8,8 +8,6 @@
 
 > :information_source: **(15 June 2020):** All recorded talks are available [here](https://www.youtube.com/playlist?list=PLD-7XrNHCcFJCxYrZQRYsTvv3mTogWiiI).
 
-> :information_source: **(14 June 2020):** Click [here](https://zoom.us/j/92991078064?pwd=Vy8xMmJQZ1R2NUFtaUR4VDdKRHprQT09) to join the workshop via Zoom. Follow the links [below](#accepted-papers) for poster Q&A sessions (CVPR registered attendees only).
-
 ---
 
 [Program](#program) |
